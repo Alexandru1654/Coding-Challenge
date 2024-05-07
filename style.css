@@ -2,10 +2,8 @@
   box-sizing: border-box;
 }
 
+ /*This is a image background*/
 body {
-  margin: auto;
-  padding: auto;
-  /*This is a image background*/
   background-image: url(background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
